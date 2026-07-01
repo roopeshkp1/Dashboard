@@ -40,13 +40,8 @@
     "event": "ISM Non-Manufacturing Prices  (Jun)"
   },
   {
-    "date": "06/30/2026",
-    "time": "15:00",
-    "event": "CB Consumer Confidence  (Jun)"
-  },
-  {
-    "date": "06/30/2026",
-    "time": "15:00",
-    "event": "JOLTS Job Openings  (May)"
+    "date": "07/08/2026",
+    "time": "19:00",
+    "event": "FOMC Meeting Minutes"
   }
 ]
