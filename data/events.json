@@ -1,20 +1,5 @@
 [
   {
-    "date": "07/01/2026",
-    "time": "13:15",
-    "event": "ADP Nonfarm Employment Change  (Jun)"
-  },
-  {
-    "date": "07/01/2026",
-    "time": "15:00",
-    "event": "ISM Manufacturing PMI  (Jun)"
-  },
-  {
-    "date": "07/01/2026",
-    "time": "15:00",
-    "event": "ISM Manufacturing Prices  (Jun)"
-  },
-  {
     "date": "07/02/2026",
     "time": "13:30",
     "event": "Initial Jobless Claims"
@@ -43,5 +28,10 @@
     "date": "07/08/2026",
     "time": "19:00",
     "event": "FOMC Meeting Minutes"
+  },
+  {
+    "date": "07/09/2026",
+    "time": "13:30",
+    "event": "Initial Jobless Claims"
   }
 ]
