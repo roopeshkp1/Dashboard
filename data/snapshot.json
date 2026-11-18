@@ -1,44 +1,44 @@
 {
-  "built_at": "2026-11-17T03:00:22.867503Z",
+  "built_at": "2026-11-18T02:29:32.786291Z",
   "groups": {
     "Indices": [
       {
         "ticker": "QQQE",
-        "daily": -2.09,
-        "intra": -1.32,
-        "5d": -1.83,
-        "20d": -3.65,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -2.34,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 95.0,
         "rs_chart": "data/charts/QQQE.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "MGK",
-        "daily": -2.63,
-        "intra": -1.44,
-        "5d": -2.92,
-        "20d": -8.19,
-        "atr_pct": 2.4,
-        "dist_sma50_atr": -3.11,
-        "rs": 15.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/MGK.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "QQQ",
-        "daily": -2.67,
-        "intra": -1.38,
-        "5d": -2.59,
-        "20d": -7.88,
-        "atr_pct": 2.5,
-        "dist_sma50_atr": -3.07,
-        "rs": 20.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/QQQ.png",
         "long": [
           "TQQQ"
@@ -46,16 +46,16 @@
         "short": [
           "SQQQ"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IBIT",
-        "daily": -5.52,
-        "intra": 0.88,
-        "5d": -13.07,
-        "20d": -20.54,
-        "atr_pct": 3.9,
-        "dist_sma50_atr": -4.84,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 5.0,
         "rs_chart": "data/charts/IBIT.png",
         "long": [
@@ -66,47 +66,47 @@
           "SBIT",
           "BITI"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "RSP",
-        "daily": -1.01,
-        "intra": -1.03,
-        "5d": -0.91,
-        "20d": 2.59,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 1.54,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/RSP.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "MDY",
-        "daily": -1.45,
-        "intra": -0.88,
-        "5d": -2.3,
-        "20d": 0.39,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.51,
-        "rs": 80.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/MDY.png",
         "long": [
           "MIDU"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IWM",
-        "daily": -1.66,
-        "intra": -1.14,
-        "5d": -3.39,
-        "20d": 0.61,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -1.45,
-        "rs": 80.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/IWM.png",
         "long": [
           "TNA"
@@ -114,17 +114,17 @@
         "short": [
           "TZA"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "TLT",
-        "daily": 0.0,
-        "intra": -0.16,
-        "5d": -3.15,
-        "20d": 0.32,
-        "atr_pct": 1.0,
-        "dist_sma50_atr": -0.52,
-        "rs": 50.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 30.0,
         "rs_chart": "data/charts/TLT.png",
         "long": [
           "TMF"
@@ -132,17 +132,17 @@
         "short": [
           "TMV"
         ],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "SPY",
-        "daily": -1.91,
-        "intra": -1.3,
-        "5d": -1.69,
-        "20d": -3.46,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": -2.01,
-        "rs": 2.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/SPY.png",
         "long": [
           "SPXL",
@@ -152,77 +152,77 @@
           "SPXS",
           "SH"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "ETHA",
-        "daily": -6.57,
-        "intra": -0.32,
-        "5d": -14.42,
-        "20d": -23.99,
-        "atr_pct": 5.3,
-        "dist_sma50_atr": -4.79,
-        "rs": 5.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/ETHA.png",
         "long": [
           "ETHU"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "DIA",
-        "daily": -1.43,
-        "intra": -1.4,
-        "5d": -1.46,
-        "20d": -0.62,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": -0.42,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/DIA.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       }
     ],
     "S&P Style ETFs": [
       {
         "ticker": "IJS",
-        "daily": -1.05,
-        "intra": -0.74,
-        "5d": -1.73,
-        "20d": 2.48,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 0.07,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/IJS.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IJR",
-        "daily": -1.22,
-        "intra": -0.74,
-        "5d": -1.99,
-        "20d": 2.27,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.08,
-        "rs": 85.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 90.0,
         "rs_chart": "data/charts/IJR.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IJT",
         "daily": -1.31,
-        "intra": -0.94,
-        "5d": -2.21,
-        "20d": 2.01,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.2,
-        "rs": 90.0,
+        "intra": -1.12,
+        "5d": -2.99,
+        "20d": -0.67,
+        "atr_pct": 1.7,
+        "dist_sma50_atr": -0.91,
+        "rs": 75.0,
         "rs_chart": "data/charts/IJT.png",
         "long": [],
         "short": [],
@@ -230,13 +230,13 @@
       },
       {
         "ticker": "IJJ",
-        "daily": -1.0,
-        "intra": -0.69,
-        "5d": -1.66,
-        "20d": 2.69,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 0.96,
-        "rs": 75.0,
+        "daily": -1.42,
+        "intra": -0.96,
+        "5d": -2.84,
+        "20d": -0.02,
+        "atr_pct": 1.5,
+        "dist_sma50_atr": -0.01,
+        "rs": 90.0,
         "rs_chart": "data/charts/IJJ.png",
         "long": [],
         "short": [],
@@ -244,27 +244,27 @@
       },
       {
         "ticker": "IJH",
-        "daily": -1.44,
-        "intra": -0.93,
-        "5d": -2.27,
-        "20d": 0.44,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.48,
-        "rs": 80.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/IJH.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IJK",
-        "daily": -1.91,
-        "intra": -1.02,
-        "5d": -2.93,
-        "20d": -1.78,
+        "daily": -1.11,
+        "intra": -0.99,
+        "5d": -3.56,
+        "20d": -3.57,
         "atr_pct": 1.9,
-        "dist_sma50_atr": -1.52,
-        "rs": 80.0,
+        "dist_sma50_atr": -1.97,
+        "rs": 70.0,
         "rs_chart": "data/charts/IJK.png",
         "long": [],
         "short": [],
@@ -272,57 +272,57 @@
       },
       {
         "ticker": "IVE",
-        "daily": -1.04,
-        "intra": -1.03,
-        "5d": -0.29,
-        "20d": 1.9,
-        "atr_pct": 1.1,
-        "dist_sma50_atr": 1.72,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/IVE.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IVV",
-        "daily": -1.89,
-        "intra": -1.29,
-        "5d": -1.68,
-        "20d": -3.46,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": -2.05,
-        "rs": 20.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/IVV.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IVW",
-        "daily": -2.62,
-        "intra": -1.5,
-        "5d": -2.97,
-        "20d": -7.91,
-        "atr_pct": 2.3,
-        "dist_sma50_atr": -3.17,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/IVW.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       }
     ],
     "Sel Sectors": [
       {
         "ticker": "XLK",
-        "daily": -3.24,
-        "intra": -1.19,
-        "5d": -3.58,
-        "20d": -11.4,
-        "atr_pct": 3.4,
-        "dist_sma50_atr": -3.47,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/XLK.png",
         "long": [
           "TECL"
@@ -330,48 +330,48 @@
         "short": [
           "TECS"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XLI",
-        "daily": -1.85,
-        "intra": -1.23,
-        "5d": -1.91,
-        "20d": -0.61,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -0.94,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 80.0,
         "rs_chart": "data/charts/XLI.png",
         "long": [
           "DUSL"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XLC",
-        "daily": -1.72,
-        "intra": -2.04,
-        "5d": -0.5,
-        "20d": -2.97,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -1.14,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 80.0,
         "rs_chart": "data/charts/XLC.png",
         "long": [
           "LTL"
         ],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "XLF",
-        "daily": -0.85,
-        "intra": -0.95,
-        "5d": 0.33,
-        "20d": 5.67,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 2.61,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/XLF.png",
         "long": [
@@ -380,33 +380,33 @@
         "short": [
           "FAZ"
         ],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLU",
-        "daily": 0.18,
-        "intra": -0.25,
-        "5d": 0.75,
-        "20d": 6.67,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": 4.07,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/XLU.png",
         "long": [
           "UTSL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLY",
-        "daily": -1.53,
-        "intra": -1.23,
-        "5d": -2.36,
-        "20d": 3.22,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 2.0,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/XLY.png",
         "long": [
           "WANT"
@@ -414,17 +414,17 @@
         "short": [
           "SCC"
         ],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLRE",
-        "daily": -0.27,
-        "intra": -0.72,
-        "5d": -0.87,
-        "20d": 6.19,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 2.81,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/XLRE.png",
         "long": [
           "DRN"
@@ -432,16 +432,16 @@
         "short": [
           "DRV"
         ],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLP",
-        "daily": 0.27,
-        "intra": -0.57,
-        "5d": 1.88,
-        "20d": 6.18,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 5.08,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/XLP.png",
         "long": [
@@ -450,17 +450,17 @@
         "short": [
           "SZK"
         ],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLB",
-        "daily": -1.46,
-        "intra": -1.44,
-        "5d": -2.78,
-        "20d": 1.02,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": 0.67,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 90.0,
         "rs_chart": "data/charts/XLB.png",
         "long": [
           "UYM"
@@ -468,17 +468,17 @@
         "short": [
           "SMN"
         ],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XLE",
-        "daily": -1.96,
-        "intra": -1.29,
-        "5d": 2.83,
-        "20d": -6.06,
-        "atr_pct": 2.5,
-        "dist_sma50_atr": -0.76,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/XLE.png",
         "long": [
           "ERX"
@@ -486,219 +486,219 @@
         "short": [
           "ERY"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XLV",
-        "daily": -0.51,
-        "intra": -1.38,
-        "5d": -0.24,
-        "20d": 6.96,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": 4.06,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/XLV.png",
         "long": [
           "CURE"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       }
     ],
     "EW Sectors": [
       {
         "ticker": "RSPT",
-        "daily": -2.98,
-        "intra": -1.25,
-        "5d": -2.25,
-        "20d": -8.72,
-        "atr_pct": 3.1,
-        "dist_sma50_atr": -3.05,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 30.0,
         "rs_chart": "data/charts/RSPT.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "RSPC",
-        "daily": -1.23,
-        "intra": -0.96,
-        "5d": -0.8,
-        "20d": 3.25,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 1.23,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/RSPC.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPN",
-        "daily": -1.06,
-        "intra": -0.59,
-        "5d": -1.14,
-        "20d": 3.98,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 1.37,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/RSPN.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPF",
-        "daily": -0.67,
-        "intra": -1.05,
-        "5d": 0.09,
-        "20d": 6.49,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 3.09,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/RSPF.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSP",
-        "daily": -1.01,
-        "intra": -1.03,
-        "5d": -0.91,
-        "20d": 2.59,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 1.54,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/RSP.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPD",
-        "daily": -0.58,
-        "intra": -0.84,
-        "5d": -2.81,
-        "20d": 5.64,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 2.74,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/RSPD.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPU",
-        "daily": 0.15,
-        "intra": -0.28,
-        "5d": 0.99,
-        "20d": 6.54,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 4.62,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 85.0,
         "rs_chart": "data/charts/RSPU.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPR",
-        "daily": -0.24,
-        "intra": -0.77,
-        "5d": -0.98,
-        "20d": 6.31,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 2.75,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/RSPR.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPH",
-        "daily": -0.44,
-        "intra": -0.92,
-        "5d": -1.33,
-        "20d": 5.61,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 3.98,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/RSPH.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPM",
-        "daily": -1.61,
-        "intra": -1.51,
-        "5d": -2.8,
-        "20d": 1.55,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 0.64,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 85.0,
         "rs_chart": "data/charts/RSPM.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPS",
-        "daily": 0.52,
-        "intra": -0.4,
-        "5d": 1.52,
-        "20d": 6.43,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 4.73,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/RSPS.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "RSPG",
-        "daily": -2.38,
-        "intra": -1.46,
-        "5d": 2.83,
-        "20d": -7.12,
-        "atr_pct": 2.5,
-        "dist_sma50_atr": -1.38,
-        "rs": 30.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 15.0,
         "rs_chart": "data/charts/RSPG.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       }
     ],
     "Industries": [
       {
         "ticker": "TAN",
-        "daily": -3.48,
-        "intra": -1.57,
-        "5d": -11.02,
-        "20d": -2.69,
-        "atr_pct": 4.2,
-        "dist_sma50_atr": -1.94,
-        "rs": 70.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 45.0,
         "rs_chart": "data/charts/TAN.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KCE",
-        "daily": -1.7,
-        "intra": -1.25,
-        "5d": -2.56,
-        "20d": 5.32,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 0.1,
-        "rs": 90.0,
+        "daily": -2.05,
+        "intra": -1.53,
+        "5d": -4.65,
+        "20d": 1.19,
+        "atr_pct": 2.0,
+        "dist_sma50_atr": -0.84,
+        "rs": 100.0,
         "rs_chart": "data/charts/KCE.png",
         "long": [],
         "short": [],
@@ -706,69 +706,69 @@
       },
       {
         "ticker": "IBUY",
-        "daily": -1.89,
-        "intra": -1.54,
-        "5d": -3.87,
-        "20d": -0.74,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": 0.48,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/IBUY.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "QQQE",
-        "daily": -2.09,
-        "intra": -1.32,
-        "5d": -1.83,
-        "20d": -3.65,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -2.34,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 95.0,
         "rs_chart": "data/charts/QQQE.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "JETS",
-        "daily": 0.62,
-        "intra": 0.66,
-        "5d": -3.91,
-        "20d": 13.45,
-        "atr_pct": 3.1,
-        "dist_sma50_atr": 1.3,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 95.0,
         "rs_chart": "data/charts/JETS.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IBB",
-        "daily": -2.13,
-        "intra": -2.36,
-        "5d": -5.28,
-        "20d": 1.92,
-        "atr_pct": 2.6,
-        "dist_sma50_atr": -0.17,
-        "rs": 55.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 65.0,
         "rs_chart": "data/charts/IBB.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "SMH",
-        "daily": -5.11,
-        "intra": -1.45,
-        "5d": -5.23,
-        "20d": -15.78,
-        "atr_pct": 5.3,
-        "dist_sma50_atr": -3.27,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/SMH.png",
         "long": [
           "SOXL"
@@ -776,178 +776,178 @@
         "short": [
           "SOXS"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "CIBR",
-        "daily": -1.9,
-        "intra": -0.47,
-        "5d": -1.53,
-        "20d": -6.7,
-        "atr_pct": 3.7,
-        "dist_sma50_atr": -2.11,
-        "rs": 85.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 65.0,
         "rs_chart": "data/charts/CIBR.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "UTES",
-        "daily": -0.97,
-        "intra": -0.87,
-        "5d": -0.01,
-        "20d": 3.9,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 2.17,
-        "rs": 80.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 55.0,
         "rs_chart": "data/charts/UTES.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "ROBO",
-        "daily": -3.9,
-        "intra": -1.67,
-        "5d": -5.33,
-        "20d": -8.72,
-        "atr_pct": 2.9,
-        "dist_sma50_atr": -3.58,
-        "rs": 50.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 40.0,
         "rs_chart": "data/charts/ROBO.png",
         "long": [
           "UBOT"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IGV",
-        "daily": -2.16,
-        "intra": -1.51,
-        "5d": -2.42,
-        "20d": -6.59,
-        "atr_pct": 2.9,
-        "dist_sma50_atr": -2.26,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 55.0,
         "rs_chart": "data/charts/IGV.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "WCLD",
-        "daily": -0.65,
-        "intra": 0.04,
-        "5d": -0.43,
-        "20d": -2.55,
-        "atr_pct": 3.1,
-        "dist_sma50_atr": -0.65,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 75.0,
         "rs_chart": "data/charts/WCLD.png",
         "long": [
           "CLDL"
         ],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "ITA",
-        "daily": -2.46,
-        "intra": -1.54,
-        "5d": -2.68,
-        "20d": 0.72,
-        "atr_pct": 2.6,
-        "dist_sma50_atr": -0.29,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 90.0,
         "rs_chart": "data/charts/ITA.png",
         "long": [
           "DFEN"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "PAVE",
-        "daily": -1.9,
-        "intra": -1.14,
-        "5d": -2.27,
-        "20d": -1.23,
-        "atr_pct": 2.3,
-        "dist_sma50_atr": -0.89,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/PAVE.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "BLOK",
-        "daily": -4.1,
-        "intra": -0.58,
-        "5d": -5.78,
-        "20d": -12.01,
-        "atr_pct": 4.4,
-        "dist_sma50_atr": -3.89,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 5.0,
         "rs_chart": "data/charts/BLOK.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "AIQ",
-        "daily": -3.22,
-        "intra": -1.22,
-        "5d": -3.3,
-        "20d": -9.74,
-        "atr_pct": 2.9,
-        "dist_sma50_atr": -3.51,
-        "rs": 15.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/AIQ.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IYZ",
-        "daily": -1.72,
-        "intra": -0.65,
-        "5d": -1.41,
-        "20d": -2.14,
-        "atr_pct": 2.6,
-        "dist_sma50_atr": -2.15,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 70.0,
         "rs_chart": "data/charts/IYZ.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "PEJ",
-        "daily": 0.09,
-        "intra": 0.15,
-        "5d": -1.32,
-        "20d": 3.65,
-        "atr_pct": 1.7,
-        "dist_sma50_atr": 2.62,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/PEJ.png",
         "long": [
           "OOTO"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "FDN",
-        "daily": -2.75,
-        "intra": -1.77,
-        "5d": -2.46,
-        "20d": -8.91,
-        "atr_pct": 2.5,
-        "dist_sma50_atr": -3.13,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 55.0,
         "rs_chart": "data/charts/FDN.png",
         "long": [
@@ -956,31 +956,31 @@
         "short": [
           "WEBS"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KBE",
-        "daily": -0.74,
-        "intra": -0.87,
-        "5d": -1.74,
-        "20d": 4.5,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": 0.46,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 80.0,
         "rs_chart": "data/charts/KBE.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "UNG",
-        "daily": -3.25,
-        "intra": -0.81,
-        "5d": -2.58,
-        "20d": -6.12,
-        "atr_pct": 3.9,
-        "dist_sma50_atr": -1.13,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 60.0,
         "rs_chart": "data/charts/UNG.png",
         "long": [
           "BOIL"
@@ -988,62 +988,62 @@
         "short": [
           "KOLD"
         ],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "BOAT",
-        "daily": -1.88,
-        "intra": -0.75,
-        "5d": 0.79,
-        "20d": -8.46,
-        "atr_pct": 2.4,
-        "dist_sma50_atr": -3.05,
-        "rs": 15.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/BOAT.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KWEB",
-        "daily": -1.61,
-        "intra": -1.05,
-        "5d": -7.2,
-        "20d": -7.08,
-        "atr_pct": 2.3,
-        "dist_sma50_atr": -2.9,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 75.0,
         "rs_chart": "data/charts/KWEB.png",
         "long": [
           "CWEB"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KRE",
-        "daily": -0.76,
-        "intra": -0.88,
-        "5d": -1.72,
-        "20d": 4.23,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 0.44,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 80.0,
         "rs_chart": "data/charts/KRE.png",
         "long": [
           "DPST"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IBIT",
-        "daily": -5.52,
-        "intra": 0.88,
-        "5d": -13.07,
-        "20d": -20.54,
-        "atr_pct": 3.9,
-        "dist_sma50_atr": -4.84,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 5.0,
         "rs_chart": "data/charts/IBIT.png",
         "long": [
@@ -1054,137 +1054,137 @@
           "SBIT",
           "BITI"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XRT",
-        "daily": -1.6,
-        "intra": -1.74,
-        "5d": -3.44,
-        "20d": 3.19,
-        "atr_pct": 2.3,
-        "dist_sma50_atr": 1.79,
-        "rs": 75.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 85.0,
         "rs_chart": "data/charts/XRT.png",
         "long": [
           "RETL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IHI",
-        "daily": -0.81,
-        "intra": -1.22,
-        "5d": -1.74,
-        "20d": 7.05,
-        "atr_pct": 2.2,
-        "dist_sma50_atr": 3.32,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/IHI.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "DRIV",
-        "daily": -3.85,
-        "intra": -1.92,
-        "5d": -7.11,
-        "20d": -10.59,
-        "atr_pct": 2.9,
-        "dist_sma50_atr": -4.59,
-        "rs": 20.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/DRIV.png",
         "long": [
           "EVAV"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "MSOS",
-        "daily": -0.81,
-        "intra": -1.34,
-        "5d": -9.34,
-        "20d": -3.15,
-        "atr_pct": 6.0,
-        "dist_sma50_atr": -2.77,
-        "rs": 15.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/MSOS.png",
         "long": [
           "MSOX"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "SOCL",
-        "daily": -1.42,
-        "intra": -1.42,
-        "5d": -4.41,
-        "20d": -8.9,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -3.62,
-        "rs": 45.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 60.0,
         "rs_chart": "data/charts/SOCL.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XLU",
-        "daily": 0.18,
-        "intra": -0.25,
-        "5d": 0.75,
-        "20d": 6.67,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": 4.07,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/XLU.png",
         "long": [
           "UTSL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "ARKF",
-        "daily": -3.16,
-        "intra": -1.11,
-        "5d": -5.92,
-        "20d": -11.47,
-        "atr_pct": 3.2,
-        "dist_sma50_atr": -3.28,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 15.0,
         "rs_chart": "data/charts/ARKF.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "SLX",
-        "daily": -2.82,
-        "intra": -1.22,
-        "5d": -5.11,
-        "20d": -8.11,
-        "atr_pct": 2.1,
-        "dist_sma50_atr": -3.92,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/SLX.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "ARKK",
-        "daily": -4.59,
-        "intra": -2.03,
-        "5d": -9.41,
-        "20d": -13.07,
-        "atr_pct": 4.5,
-        "dist_sma50_atr": -3.37,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/ARKK.png",
         "long": [
           "TARK"
@@ -1192,61 +1192,61 @@
         "short": [
           "SARK"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XTN",
-        "daily": 0.29,
-        "intra": 0.31,
-        "5d": -0.54,
-        "20d": 6.32,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 1.29,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/XTN.png",
         "long": [
           "TPOR"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XME",
-        "daily": -4.09,
-        "intra": -2.56,
-        "5d": -8.79,
-        "20d": -11.31,
-        "atr_pct": 3.9,
-        "dist_sma50_atr": -3.31,
-        "rs": 20.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/XME.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KIE",
-        "daily": 0.61,
-        "intra": -0.27,
-        "5d": 1.87,
-        "20d": 6.12,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 3.94,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/KIE.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "GLD",
-        "daily": -0.71,
-        "intra": -0.34,
-        "5d": -7.01,
-        "20d": -7.05,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -3.72,
-        "rs": 40.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 45.0,
         "rs_chart": "data/charts/GLD.png",
         "long": [
           "UGL"
@@ -1254,45 +1254,45 @@
         "short": [
           "GLL"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "GXC",
-        "daily": -1.13,
-        "intra": -0.93,
-        "5d": -5.06,
-        "20d": -4.32,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": -4.27,
-        "rs": 50.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 65.0,
         "rs_chart": "data/charts/GXC.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "SCHH",
-        "daily": -0.17,
-        "intra": -0.5,
-        "5d": -0.88,
-        "20d": 6.29,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 2.78,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/SCHH.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "GDX",
-        "daily": -3.29,
-        "intra": -1.88,
-        "5d": -13.68,
-        "20d": -8.7,
-        "atr_pct": 4.4,
-        "dist_sma50_atr": -2.31,
-        "rs": 40.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 35.0,
         "rs_chart": "data/charts/GDX.png",
         "long": [
           "NUGT",
@@ -1302,31 +1302,31 @@
           "JDST",
           "GDXD"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IPAY",
-        "daily": -1.36,
-        "intra": -0.8,
-        "5d": -2.3,
-        "20d": 1.39,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 0.86,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/IPAY.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IWM",
-        "daily": -1.66,
-        "intra": -1.14,
-        "5d": -3.39,
-        "20d": 0.61,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -1.45,
-        "rs": 80.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/IWM.png",
         "long": [
           "TNA"
@@ -1334,17 +1334,17 @@
         "short": [
           "TZA"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XOP",
-        "daily": -2.61,
-        "intra": -1.43,
-        "5d": 3.35,
-        "20d": -9.77,
-        "atr_pct": 3.1,
-        "dist_sma50_atr": -1.71,
-        "rs": 30.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/XOP.png",
         "long": [
           "GUSH"
@@ -1352,31 +1352,31 @@
         "short": [
           "DRIP"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "VNQ",
-        "daily": -0.25,
-        "intra": -0.6,
-        "5d": -1.1,
-        "20d": 6.09,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": 2.61,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/VNQ.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "FXI",
-        "daily": -0.48,
-        "intra": -0.72,
-        "5d": -3.87,
-        "20d": -0.63,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": -1.18,
-        "rs": 70.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 80.0,
         "rs_chart": "data/charts/FXI.png",
         "long": [
           "YINN"
@@ -1384,87 +1384,87 @@
         "short": [
           "YANG"
         ],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "DBA",
-        "daily": -0.6,
-        "intra": -0.23,
-        "5d": 1.11,
-        "20d": -6.42,
-        "atr_pct": 0.9,
-        "dist_sma50_atr": -5.79,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/DBA.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "ICLN",
-        "daily": -3.29,
-        "intra": -1.48,
-        "5d": -7.95,
-        "20d": -5.97,
-        "atr_pct": 3.2,
-        "dist_sma50_atr": -2.79,
-        "rs": 55.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 15.0,
         "rs_chart": "data/charts/ICLN.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "SILJ",
-        "daily": -4.85,
-        "intra": -2.11,
-        "5d": -16.83,
-        "20d": -14.35,
-        "atr_pct": 5.4,
-        "dist_sma50_atr": -3.26,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 30.0,
         "rs_chart": "data/charts/SILJ.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "REZ",
-        "daily": 0.1,
-        "intra": -0.45,
-        "5d": -1.41,
-        "20d": 6.03,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 2.52,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 90.0,
         "rs_chart": "data/charts/REZ.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "LIT",
-        "daily": -3.27,
-        "intra": -1.83,
-        "5d": -7.35,
-        "20d": -12.03,
-        "atr_pct": 2.6,
-        "dist_sma50_atr": -5.24,
-        "rs": 50.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 40.0,
         "rs_chart": "data/charts/LIT.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "SLV",
-        "daily": -3.94,
-        "intra": -0.47,
-        "5d": -11.94,
-        "20d": -17.75,
-        "atr_pct": 3.7,
-        "dist_sma50_atr": -5.23,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/SLV.png",
         "long": [
           "AGQ"
@@ -1472,61 +1472,61 @@
         "short": [
           "ZSL"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XHB",
-        "daily": -1.04,
-        "intra": -0.98,
-        "5d": -4.67,
-        "20d": 7.31,
-        "atr_pct": 2.8,
-        "dist_sma50_atr": 0.97,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/XHB.png",
         "long": [
           "NAIL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "XHE",
-        "daily": -1.37,
-        "intra": -1.27,
-        "5d": -3.21,
-        "20d": 3.93,
-        "atr_pct": 2.3,
-        "dist_sma50_atr": 0.76,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/XHE.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "PBJ",
-        "daily": -0.48,
-        "intra": -1.07,
-        "5d": -0.62,
-        "20d": 1.59,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 1.58,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/PBJ.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "USO",
-        "daily": -3.81,
-        "intra": -1.86,
-        "5d": -1.84,
-        "20d": -12.92,
-        "atr_pct": 3.9,
-        "dist_sma50_atr": -2.15,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/USO.png",
         "long": [
           "UCO"
@@ -1534,45 +1534,45 @@
         "short": [
           "SCO"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "DBC",
-        "daily": -1.75,
-        "intra": -0.66,
-        "5d": -2.36,
-        "20d": -10.18,
-        "atr_pct": 1.7,
-        "dist_sma50_atr": -4.52,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/DBC.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "FCG",
-        "daily": -2.55,
-        "intra": -1.49,
-        "5d": 3.76,
-        "20d": -7.7,
-        "atr_pct": 2.9,
-        "dist_sma50_atr": -1.47,
-        "rs": 40.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 25.0,
         "rs_chart": "data/charts/FCG.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XBI",
-        "daily": -3.1,
-        "intra": -2.75,
-        "5d": -7.02,
-        "20d": -1.34,
-        "atr_pct": 3.4,
-        "dist_sma50_atr": -1.53,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 50.0,
         "rs_chart": "data/charts/XBI.png",
         "long": [
           "LABU"
@@ -1580,89 +1580,89 @@
         "short": [
           "LABD"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "ARKG",
-        "daily": -5.97,
-        "intra": -4.29,
-        "5d": -15.81,
-        "20d": -14.25,
-        "atr_pct": 6.8,
-        "dist_sma50_atr": -2.61,
-        "rs": 20.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 15.0,
         "rs_chart": "data/charts/ARKG.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "CPER",
-        "daily": -1.37,
-        "intra": -1.02,
-        "5d": -6.25,
-        "20d": -8.95,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -4.5,
-        "rs": 5.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/CPER.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "XES",
-        "daily": -4.15,
-        "intra": -2.51,
-        "5d": 0.31,
-        "20d": -8.61,
-        "atr_pct": 3.7,
-        "dist_sma50_atr": -2.8,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/XES.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "OIH",
-        "daily": -3.84,
-        "intra": -2.25,
-        "5d": 0.16,
-        "20d": -6.23,
-        "atr_pct": 3.5,
-        "dist_sma50_atr": -2.1,
-        "rs": 25.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/OIH.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "PPH",
-        "daily": -0.86,
-        "intra": -1.47,
-        "5d": 0.28,
-        "20d": 7.15,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": 3.76,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/PPH.png",
         "long": [
           "PILL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "FNGS",
-        "daily": -3.33,
-        "intra": -1.95,
-        "5d": -3.07,
-        "20d": -10.93,
-        "atr_pct": 2.5,
-        "dist_sma50_atr": -3.74,
-        "rs": 15.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 25.0,
         "rs_chart": "data/charts/FNGS.png",
         "long": [
           "FNGB"
@@ -1670,436 +1670,436 @@
         "short": [
           "FNGD"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "URA",
-        "daily": -4.4,
-        "intra": -2.75,
-        "5d": -11.36,
-        "20d": -13.69,
-        "atr_pct": 4.8,
-        "dist_sma50_atr": -4.07,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/URA.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "WGMI",
-        "daily": -6.82,
-        "intra": -1.85,
-        "5d": -10.34,
-        "20d": -22.42,
-        "atr_pct": 10.7,
-        "dist_sma50_atr": -3.27,
-        "rs": 40.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/WGMI.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "REMX",
-        "daily": -5.92,
-        "intra": -2.53,
-        "5d": -12.4,
-        "20d": -11.81,
-        "atr_pct": 4.3,
-        "dist_sma50_atr": -4.88,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 15.0,
         "rs_chart": "data/charts/REMX.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       }
     ],
     "Countries": [
       {
         "ticker": "EZA",
-        "daily": -2.42,
-        "intra": -1.18,
-        "5d": -8.92,
-        "20d": -2.46,
-        "atr_pct": 2.4,
-        "dist_sma50_atr": -1.63,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 25.0,
         "rs_chart": "data/charts/EZA.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "ARGT",
-        "daily": -4.34,
-        "intra": -3.22,
-        "5d": -6.32,
-        "20d": -18.88,
-        "atr_pct": 3.1,
-        "dist_sma50_atr": -5.73,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 10.0,
         "rs_chart": "data/charts/ARGT.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWA",
-        "daily": -1.75,
-        "intra": -1.18,
-        "5d": -3.67,
-        "20d": -0.87,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": -1.04,
-        "rs": 25.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/EWA.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "THD",
-        "daily": -0.75,
-        "intra": -0.53,
-        "5d": -0.43,
-        "20d": -5.52,
-        "atr_pct": 1.1,
-        "dist_sma50_atr": -4.55,
-        "rs": 40.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 0.0,
         "rs_chart": "data/charts/THD.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EIDO",
-        "daily": -0.85,
-        "intra": -0.57,
-        "5d": 1.94,
-        "20d": 9.37,
-        "atr_pct": 2.2,
-        "dist_sma50_atr": -3.25,
-        "rs": 70.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 25.0,
         "rs_chart": "data/charts/EIDO.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWC",
-        "daily": -1.41,
-        "intra": -0.79,
-        "5d": -2.82,
-        "20d": -1.69,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": -1.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 65.0,
         "rs_chart": "data/charts/EWC.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "GREK",
-        "daily": -0.26,
-        "intra": -0.14,
-        "5d": -1.64,
-        "20d": 0.64,
-        "atr_pct": 2.0,
-        "dist_sma50_atr": -0.98,
-        "rs": 35.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 20.0,
         "rs_chart": "data/charts/GREK.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "EWP",
-        "daily": -1.09,
-        "intra": -1.15,
-        "5d": -1.74,
-        "20d": 3.19,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.01,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 85.0,
         "rs_chart": "data/charts/EWP.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "EWG",
-        "daily": -1.35,
-        "intra": -0.96,
-        "5d": -1.56,
-        "20d": 3.12,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": 0.5,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/EWG.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EWL",
-        "daily": -0.11,
-        "intra": -0.58,
-        "5d": -1.55,
-        "20d": 4.35,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 3.61,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/EWL.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EUFN",
-        "daily": -1.06,
-        "intra": -0.88,
-        "5d": -1.73,
-        "20d": 2.89,
-        "atr_pct": 1.7,
-        "dist_sma50_atr": -0.54,
-        "rs": 75.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 80.0,
         "rs_chart": "data/charts/EUFN.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "EWY",
-        "daily": -4.36,
-        "intra": -1.53,
-        "5d": -3.91,
-        "20d": -12.79,
-        "atr_pct": 5.3,
-        "dist_sma50_atr": -3.48,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/EWY.png",
         "long": [
           "KORU"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IEUR",
-        "daily": -1.19,
-        "intra": -1.05,
-        "5d": -2.16,
-        "20d": 1.87,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 0.18,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 85.0,
         "rs_chart": "data/charts/IEUR.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EFA",
-        "daily": -1.47,
-        "intra": -1.04,
-        "5d": -2.21,
-        "20d": -0.22,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": -1.21,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 60.0,
         "rs_chart": "data/charts/EFA.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "ACWI",
-        "daily": -1.99,
-        "intra": -1.13,
-        "5d": -2.14,
-        "20d": -3.24,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": -2.41,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/ACWI.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IEV",
-        "daily": -1.24,
-        "intra": -1.15,
-        "5d": -2.25,
-        "20d": 1.78,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": 0.22,
-        "rs": 85.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/IEV.png",
         "long": [
           "EURL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EWQ",
-        "daily": -1.0,
-        "intra": -1.21,
-        "5d": -1.47,
-        "20d": 4.47,
-        "atr_pct": 1.3,
-        "dist_sma50_atr": 0.85,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 85.0,
         "rs_chart": "data/charts/EWQ.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EWI",
-        "daily": -1.41,
-        "intra": -1.34,
-        "5d": -2.97,
-        "20d": 3.79,
-        "atr_pct": 1.6,
-        "dist_sma50_atr": -0.64,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/EWI.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "EWJ",
-        "daily": -2.08,
-        "intra": -0.97,
-        "5d": -1.78,
-        "20d": -5.41,
-        "atr_pct": 1.8,
-        "dist_sma50_atr": -3.29,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/EWJ.png",
         "long": [
           "EZJ"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWW",
-        "daily": -0.91,
-        "intra": -0.25,
-        "5d": -1.46,
-        "20d": 1.42,
-        "atr_pct": 1.7,
-        "dist_sma50_atr": 1.63,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 70.0,
         "rs_chart": "data/charts/EWW.png",
         "long": [
           "MEXX"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "ECH",
-        "daily": -1.38,
-        "intra": -0.99,
-        "5d": -3.89,
-        "20d": -5.29,
-        "atr_pct": 2.2,
-        "dist_sma50_atr": -2.89,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 40.0,
         "rs_chart": "data/charts/ECH.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWD",
-        "daily": -1.37,
-        "intra": -0.99,
-        "5d": -2.93,
-        "20d": 2.16,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": 0.69,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/EWD.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "ASHR",
-        "daily": -1.12,
-        "intra": -0.57,
-        "5d": -3.55,
-        "20d": -4.41,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": -5.36,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 45.0,
         "rs_chart": "data/charts/ASHR.png",
         "long": [
           "CHAU"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWS",
-        "daily": -1.82,
-        "intra": -0.6,
-        "5d": -2.66,
-        "20d": -5.22,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": -6.1,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/EWS.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "KSA",
-        "daily": -0.5,
-        "intra": 0.08,
-        "5d": 1.04,
-        "20d": 1.96,
-        "atr_pct": 1.0,
-        "dist_sma50_atr": -0.49,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 90.0,
         "rs_chart": "data/charts/KSA.png",
         "long": [],
         "short": [],
-        "abc": "B"
+        "abc": null
       },
       {
         "ticker": "INDA",
-        "daily": 0.21,
-        "intra": 0.1,
-        "5d": 0.29,
-        "20d": 8.78,
-        "atr_pct": 1.0,
-        "dist_sma50_atr": 7.14,
-        "rs": 95.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/INDA.png",
         "long": [
           "INDL"
         ],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EEM",
-        "daily": -3.33,
-        "intra": -0.83,
-        "5d": -3.51,
-        "20d": -6.98,
-        "atr_pct": 2.4,
-        "dist_sma50_atr": -3.74,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/EEM.png",
         "long": [
@@ -2108,189 +2108,189 @@
         "short": [
           "EDZ"
         ],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWZ",
-        "daily": -4.03,
-        "intra": -1.81,
-        "5d": -5.18,
-        "20d": -26.26,
-        "atr_pct": 3.6,
-        "dist_sma50_atr": -4.89,
-        "rs": 10.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 5.0,
         "rs_chart": "data/charts/EWZ.png",
         "long": [
           "BRZU"
         ],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "TUR",
-        "daily": -0.31,
-        "intra": -0.34,
-        "5d": -0.47,
-        "20d": 0.94,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -3.1,
-        "rs": 100.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 70.0,
         "rs_chart": "data/charts/TUR.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "EWH",
-        "daily": -0.56,
-        "intra": -0.43,
-        "5d": -1.92,
-        "20d": 4.42,
-        "atr_pct": 1.2,
-        "dist_sma50_atr": 2.01,
-        "rs": 70.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/EWH.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "EWT",
-        "daily": -6.76,
-        "intra": -0.91,
-        "5d": -5.07,
-        "20d": -15.35,
-        "atr_pct": 4.5,
-        "dist_sma50_atr": -3.43,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 0.0,
         "rs_chart": "data/charts/EWT.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "MCHI",
-        "daily": -1.05,
-        "intra": -0.71,
-        "5d": -4.79,
-        "20d": -3.58,
-        "atr_pct": 1.4,
-        "dist_sma50_atr": -3.4,
-        "rs": 65.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/MCHI.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       }
     ]
   },
   "column_ranges": {
     "Indices": {
       "daily": [
-        -6.57,
-        0.0
+        NaN,
+        NaN
       ],
       "intra": [
-        -1.44,
-        0.88
+        NaN,
+        NaN
       ],
       "5d": [
-        -14.42,
-        -0.91
+        NaN,
+        NaN
       ],
       "20d": [
-        -23.99,
-        2.59
+        NaN,
+        NaN
       ]
     },
     "S&P Style ETFs": {
       "daily": [
-        -2.62,
-        -1.0
+        NaN,
+        NaN
       ],
       "intra": [
-        -1.5,
-        -0.69
+        NaN,
+        NaN
       ],
       "5d": [
-        -2.97,
-        -0.29
+        NaN,
+        NaN
       ],
       "20d": [
-        -7.91,
-        2.69
+        NaN,
+        NaN
       ]
     },
     "Sel Sectors": {
       "daily": [
-        -3.24,
-        0.27
+        NaN,
+        NaN
       ],
       "intra": [
-        -2.04,
-        -0.25
+        NaN,
+        NaN
       ],
       "5d": [
-        -3.58,
-        2.83
+        NaN,
+        NaN
       ],
       "20d": [
-        -11.4,
-        6.96
+        NaN,
+        NaN
       ]
     },
     "EW Sectors": {
       "daily": [
-        -2.98,
-        0.52
+        NaN,
+        NaN
       ],
       "intra": [
-        -1.51,
-        -0.28
+        NaN,
+        NaN
       ],
       "5d": [
-        -2.81,
-        2.83
+        NaN,
+        NaN
       ],
       "20d": [
-        -8.72,
-        6.54
+        NaN,
+        NaN
       ]
     },
     "Industries": {
       "daily": [
-        -6.82,
-        0.62
+        NaN,
+        NaN
       ],
       "intra": [
-        -4.29,
-        0.88
+        NaN,
+        NaN
       ],
       "5d": [
-        -16.83,
-        3.76
+        NaN,
+        NaN
       ],
       "20d": [
-        -22.42,
-        13.45
+        NaN,
+        NaN
       ]
     },
     "Countries": {
       "daily": [
-        -6.76,
-        0.21
+        NaN,
+        NaN
       ],
       "intra": [
-        -3.22,
-        0.1
+        NaN,
+        NaN
       ],
       "5d": [
-        -8.92,
-        1.94
+        NaN,
+        NaN
       ],
       "20d": [
-        -26.26,
-        9.37
+        NaN,
+        NaN
       ]
     }
   }
