@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-18T02:29:32.786291Z",
+  "built_at": "2026-11-19T01:56:16.743856Z",
   "groups": {
     "Indices": [
       {
@@ -10,7 +10,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/QQQE.png",
         "long": [],
         "short": [],
@@ -24,7 +24,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 0.0,
+        "rs": 5.0,
         "rs_chart": "data/charts/MGK.png",
         "long": [],
         "short": [],
@@ -56,7 +56,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 5.0,
+        "rs": 0.0,
         "rs_chart": "data/charts/IBIT.png",
         "long": [
           "BITX",
@@ -90,7 +90,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/MDY.png",
         "long": [
           "MIDU"
@@ -106,7 +106,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/IWM.png",
         "long": [
           "TNA"
@@ -124,7 +124,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 30.0,
+        "rs": 50.0,
         "rs_chart": "data/charts/TLT.png",
         "long": [
           "TMF"
@@ -142,7 +142,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 5.0,
         "rs_chart": "data/charts/SPY.png",
         "long": [
           "SPXL",
@@ -194,7 +194,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 90.0,
         "rs_chart": "data/charts/IJS.png",
         "long": [],
         "short": [],
@@ -208,7 +208,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 90.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/IJR.png",
         "long": [],
         "short": [],
@@ -216,31 +216,31 @@
       },
       {
         "ticker": "IJT",
-        "daily": -1.31,
-        "intra": -1.12,
-        "5d": -2.99,
-        "20d": -0.67,
-        "atr_pct": 1.7,
-        "dist_sma50_atr": -0.91,
-        "rs": 75.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 100.0,
         "rs_chart": "data/charts/IJT.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IJJ",
-        "daily": -1.42,
-        "intra": -0.96,
-        "5d": -2.84,
-        "20d": -0.02,
-        "atr_pct": 1.5,
-        "dist_sma50_atr": -0.01,
-        "rs": 90.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 95.0,
         "rs_chart": "data/charts/IJJ.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IJH",
@@ -250,7 +250,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/IJH.png",
         "long": [],
         "short": [],
@@ -258,17 +258,17 @@
       },
       {
         "ticker": "IJK",
-        "daily": -1.11,
-        "intra": -0.99,
-        "5d": -3.56,
-        "20d": -3.57,
-        "atr_pct": 1.9,
-        "dist_sma50_atr": -1.97,
-        "rs": 70.0,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
+        "rs": 75.0,
         "rs_chart": "data/charts/IJK.png",
         "long": [],
         "short": [],
-        "abc": "C"
+        "abc": null
       },
       {
         "ticker": "IVE",
@@ -292,7 +292,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 0.0,
         "rs_chart": "data/charts/IVV.png",
         "long": [],
         "short": [],
@@ -340,7 +340,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 80.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/XLI.png",
         "long": [
           "DUSL"
@@ -356,7 +356,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 80.0,
+        "rs": 70.0,
         "rs_chart": "data/charts/XLC.png",
         "long": [
           "LTL"
@@ -372,7 +372,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 85.0,
         "rs_chart": "data/charts/XLF.png",
         "long": [
           "FAS"
@@ -406,7 +406,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/XLY.png",
         "long": [
           "WANT"
@@ -478,7 +478,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 15.0,
         "rs_chart": "data/charts/XLE.png",
         "long": [
           "ERX"
@@ -496,7 +496,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/XLV.png",
         "long": [
           "CURE"
@@ -514,7 +514,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 30.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/RSPT.png",
         "long": [],
         "short": [],
@@ -528,7 +528,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/RSPC.png",
         "long": [],
         "short": [],
@@ -598,7 +598,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 85.0,
+        "rs": 75.0,
         "rs_chart": "data/charts/RSPU.png",
         "long": [],
         "short": [],
@@ -626,7 +626,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/RSPH.png",
         "long": [],
         "short": [],
@@ -692,17 +692,17 @@
       },
       {
         "ticker": "KCE",
-        "daily": -2.05,
-        "intra": -1.53,
-        "5d": -4.65,
-        "20d": 1.19,
-        "atr_pct": 2.0,
-        "dist_sma50_atr": -0.84,
+        "daily": NaN,
+        "intra": NaN,
+        "5d": NaN,
+        "20d": NaN,
+        "atr_pct": NaN,
+        "dist_sma50_atr": NaN,
         "rs": 100.0,
         "rs_chart": "data/charts/KCE.png",
         "long": [],
         "short": [],
-        "abc": "A"
+        "abc": null
       },
       {
         "ticker": "IBUY",
@@ -726,7 +726,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/QQQE.png",
         "long": [],
         "short": [],
@@ -740,7 +740,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 85.0,
         "rs_chart": "data/charts/JETS.png",
         "long": [],
         "short": [],
@@ -786,7 +786,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 65.0,
+        "rs": 40.0,
         "rs_chart": "data/charts/CIBR.png",
         "long": [],
         "short": [],
@@ -814,7 +814,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 40.0,
+        "rs": 55.0,
         "rs_chart": "data/charts/ROBO.png",
         "long": [
           "UBOT"
@@ -830,7 +830,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 55.0,
+        "rs": 30.0,
         "rs_chart": "data/charts/IGV.png",
         "long": [],
         "short": [],
@@ -844,7 +844,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 60.0,
         "rs_chart": "data/charts/WCLD.png",
         "long": [
           "CLDL"
@@ -860,7 +860,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 90.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/ITA.png",
         "long": [
           "DFEN"
@@ -876,7 +876,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 90.0,
         "rs_chart": "data/charts/PAVE.png",
         "long": [],
         "short": [],
@@ -918,7 +918,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 70.0,
+        "rs": 90.0,
         "rs_chart": "data/charts/IYZ.png",
         "long": [],
         "short": [],
@@ -948,7 +948,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 55.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/FDN.png",
         "long": [
           "WEBL"
@@ -980,7 +980,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 60.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/UNG.png",
         "long": [
           "BOIL"
@@ -1044,7 +1044,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 5.0,
+        "rs": 0.0,
         "rs_chart": "data/charts/IBIT.png",
         "long": [
           "BITX",
@@ -1064,7 +1064,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 85.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/XRT.png",
         "long": [
           "RETL"
@@ -1080,7 +1080,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/IHI.png",
         "long": [],
         "short": [],
@@ -1126,7 +1126,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 60.0,
+        "rs": 65.0,
         "rs_chart": "data/charts/SOCL.png",
         "long": [],
         "short": [],
@@ -1184,7 +1184,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 0.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/ARKK.png",
         "long": [
           "TARK"
@@ -1232,7 +1232,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/KIE.png",
         "long": [],
         "short": [],
@@ -1246,7 +1246,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 45.0,
+        "rs": 35.0,
         "rs_chart": "data/charts/GLD.png",
         "long": [
           "UGL"
@@ -1292,7 +1292,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 35.0,
+        "rs": 30.0,
         "rs_chart": "data/charts/GDX.png",
         "long": [
           "NUGT",
@@ -1326,7 +1326,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/IWM.png",
         "long": [
           "TNA"
@@ -1344,7 +1344,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/XOP.png",
         "long": [
           "GUSH"
@@ -1408,7 +1408,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 15.0,
+        "rs": 20.0,
         "rs_chart": "data/charts/ICLN.png",
         "long": [],
         "short": [],
@@ -1436,7 +1436,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 90.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/REZ.png",
         "long": [],
         "short": [],
@@ -1450,7 +1450,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 40.0,
+        "rs": 30.0,
         "rs_chart": "data/charts/LIT.png",
         "long": [],
         "short": [],
@@ -1464,7 +1464,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 15.0,
         "rs_chart": "data/charts/SLV.png",
         "long": [
           "AGQ"
@@ -1482,7 +1482,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/XHB.png",
         "long": [
           "NAIL"
@@ -1544,7 +1544,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 5.0,
+        "rs": 0.0,
         "rs_chart": "data/charts/DBC.png",
         "long": [],
         "short": [],
@@ -1558,7 +1558,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 25.0,
+        "rs": 15.0,
         "rs_chart": "data/charts/FCG.png",
         "long": [],
         "short": [],
@@ -1572,7 +1572,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 50.0,
+        "rs": 75.0,
         "rs_chart": "data/charts/XBI.png",
         "long": [
           "LABU"
@@ -1590,7 +1590,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 15.0,
+        "rs": 20.0,
         "rs_chart": "data/charts/ARKG.png",
         "long": [],
         "short": [],
@@ -1618,7 +1618,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/XES.png",
         "long": [],
         "short": [],
@@ -1632,7 +1632,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 15.0,
         "rs_chart": "data/charts/OIH.png",
         "long": [],
         "short": [],
@@ -1646,7 +1646,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/PPH.png",
         "long": [
           "PILL"
@@ -1662,7 +1662,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 25.0,
+        "rs": 0.0,
         "rs_chart": "data/charts/FNGS.png",
         "long": [
           "FNGB"
@@ -1752,7 +1752,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 30.0,
         "rs_chart": "data/charts/EWA.png",
         "long": [],
         "short": [],
@@ -1780,7 +1780,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 25.0,
+        "rs": 45.0,
         "rs_chart": "data/charts/EIDO.png",
         "long": [],
         "short": [],
@@ -1808,7 +1808,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 20.0,
+        "rs": 30.0,
         "rs_chart": "data/charts/GREK.png",
         "long": [],
         "short": [],
@@ -1822,7 +1822,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 85.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/EWP.png",
         "long": [],
         "short": [],
@@ -1894,7 +1894,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 85.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/IEUR.png",
         "long": [],
         "short": [],
@@ -1908,7 +1908,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 60.0,
+        "rs": 75.0,
         "rs_chart": "data/charts/EFA.png",
         "long": [],
         "short": [],
@@ -1922,7 +1922,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 0.0,
+        "rs": 5.0,
         "rs_chart": "data/charts/ACWI.png",
         "long": [],
         "short": [],
@@ -1936,7 +1936,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 95.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/IEV.png",
         "long": [
           "EURL"
@@ -1952,7 +1952,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 85.0,
+        "rs": 100.0,
         "rs_chart": "data/charts/EWQ.png",
         "long": [],
         "short": [],
@@ -1966,7 +1966,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 100.0,
+        "rs": 90.0,
         "rs_chart": "data/charts/EWI.png",
         "long": [],
         "short": [],
@@ -1980,7 +1980,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 0.0,
+        "rs": 5.0,
         "rs_chart": "data/charts/EWJ.png",
         "long": [
           "EZJ"
@@ -1996,7 +1996,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 70.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/EWW.png",
         "long": [
           "MEXX"
@@ -2012,7 +2012,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 40.0,
+        "rs": 45.0,
         "rs_chart": "data/charts/ECH.png",
         "long": [],
         "short": [],
@@ -2026,7 +2026,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/EWD.png",
         "long": [],
         "short": [],
@@ -2040,7 +2040,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 45.0,
+        "rs": 40.0,
         "rs_chart": "data/charts/ASHR.png",
         "long": [
           "CHAU"
@@ -2056,7 +2056,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 0.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/EWS.png",
         "long": [],
         "short": [],
@@ -2070,7 +2070,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 90.0,
+        "rs": 95.0,
         "rs_chart": "data/charts/KSA.png",
         "long": [],
         "short": [],
@@ -2118,7 +2118,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 5.0,
+        "rs": 10.0,
         "rs_chart": "data/charts/EWZ.png",
         "long": [
           "BRZU"
@@ -2134,7 +2134,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 70.0,
+        "rs": 45.0,
         "rs_chart": "data/charts/TUR.png",
         "long": [],
         "short": [],
@@ -2148,7 +2148,7 @@
         "20d": NaN,
         "atr_pct": NaN,
         "dist_sma50_atr": NaN,
-        "rs": 75.0,
+        "rs": 80.0,
         "rs_chart": "data/charts/EWH.png",
         "long": [],
         "short": [],
